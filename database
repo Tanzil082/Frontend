@@ -93,13 +93,3 @@ function App() {
 
 export default App;
 
-// --- Deployment ---
-// Frontend: Deploy "client" to Vercel
-// Backend: Deploy "server" to Render or Railway
-// Database: Use MongoDB Atlas with your connection URI
-
-// Add Firebase Authentication to wrap admin access if required
-
-// --- GitHub ---
-// Push both client and server folders to GitHub with README
-// README should include setup steps, tech stack, and deployment URLs
