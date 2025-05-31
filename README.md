@@ -1,4 +1,4 @@
-# Frontend
+
 # 🌐 Web-Based Admin Panel with Web Scraping
 
 This project is a cloud-hosted admin panel that scrapes data from a public website, stores it in a cloud database (MongoDB Atlas), and displays it in a table with pagination. The scraping is triggered on-demand via a button in the admin dashboard.
